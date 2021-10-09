@@ -9,7 +9,7 @@ header{
    
     background-color: blue;
     color: yellow;
-    position:sticky;
+    position:fixed;
     bottom: 0; 
      
 }
